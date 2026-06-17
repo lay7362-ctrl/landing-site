@@ -18,7 +18,7 @@ function App() {
     <div className="min-h-screen bg-white text-slate-900">
       <header className="border-b border-slate-100">
         <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-5">
-          <span className="text-lg font-semibold">My Site</span>
+          <span className="text-lg font-semibold">커뮤니티</span>
           <a
             href="#contact"
             className="rounded-full bg-slate-900 px-4 py-2 text-sm font-medium text-white transition hover:bg-slate-700"
@@ -85,7 +85,7 @@ function App() {
       </main>
 
       <footer className="border-t border-slate-100 py-8 text-center text-sm text-slate-400">
-        © {new Date().getFullYear()} My Site. All rights reserved.
+        © {new Date().getFullYear()} 커뮤니티. All rights reserved.
       </footer>
     </div>
   )
